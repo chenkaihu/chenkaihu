@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chenkaihu
 - 👀 I’m interested in Computer Science & Software Engineering
-- 🌱 I’m currently learning my driver's license.
 - 📫 Please reach me with email
 
 <!---
